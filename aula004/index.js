@@ -3,4 +3,4 @@ Comentário de block
 Qualquer texto
 */
 
-// Comentário de linha
+// Comentário de linha.
