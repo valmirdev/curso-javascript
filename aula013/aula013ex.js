@@ -1,7 +1,7 @@
 //               012345678
 let umaString = 'Meu valor';
 
-// length
+// length.
 
 // Caractere de escape \
 console.log(umaString.charAt(-1)); // Retorna o valor da pos
