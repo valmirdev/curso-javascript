@@ -1,6 +1,6 @@
 <h2>Curso de JavaScript e TypeScript do básico ao avançado.</h2>
 
-<h3 style="color: pink;">Professor Otavio Miranda.</h3>
+<h3 style= "color: pink;">Professor Otavio Miranda.</h3>
 
 <ul>
 <li>003-Strings/numbers</li
