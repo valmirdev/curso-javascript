@@ -2,7 +2,7 @@
 
 <h3>Professor Otavio Miranda.</h3>
 
-<ul style="color:green">
+<ul style="border: 1px solid gray">
 <li>003-Strings/numbers</li
 <li>004-Comentários no código</li>
 <li>005-Javascript no html</li>
