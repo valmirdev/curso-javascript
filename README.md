@@ -4,7 +4,7 @@
 
 <ul>
 <li>003-Strings/numbers</li
-<li>004-Comentários</li>
+<li>004-Comentários no código</li>
 <li>005-Javascript no html</li>
 <li>006-Variáveis com let</li>
 <li>007-Variáveis com const</li>
