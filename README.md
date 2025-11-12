@@ -1,8 +1,8 @@
 <h2>Curso de JavaScript e TypeScript do básico ao avançado.</h2>
 
-<h3>Professor Otavio Miranda.</h3>
+<h3 style="border: 1px solid gray">Professor Otavio Miranda.</h3>
 
-<ul style="border: 1px solid gray">
+<ul>
 <li>003-Strings/numbers</li
 <li>004-Comentários no código</li>
 <li>005-Javascript no html</li>
