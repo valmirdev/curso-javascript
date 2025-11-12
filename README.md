@@ -1,3 +1,3 @@
 ## Curso de JavaScript e TypeScript do básico ao avançado JS/TS
 
-Professor Otavio Miranda.
+<h1>Professor Otavio Miranda.</h1>
