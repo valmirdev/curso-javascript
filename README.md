@@ -1,3 +1,1 @@
 ﻿# curso-javascript
-
-aula 1 https://github.com/valmirdev/curso-javascript/tree/main/aula5
