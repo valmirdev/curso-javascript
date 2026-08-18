@@ -1,0 +1,7 @@
+// COMENTÁRIO DE LINHA.
+
+/*
+
+COMENTÁRIO DE BLOCO....
+
+*/
